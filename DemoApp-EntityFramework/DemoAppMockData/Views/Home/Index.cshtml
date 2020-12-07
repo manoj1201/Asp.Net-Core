@@ -1,0 +1,16 @@
+﻿@model HomeViewModel
+
+
+<partial name="_Carousel" />
+
+<h2>Top Rated Agents</h2>
+
+
+<div class="row">
+
+    @foreach (var agent in Model.TopRatedAgents)
+    {
+        <partial name="_Agent" model="agent" />
+    }
+
+</div>

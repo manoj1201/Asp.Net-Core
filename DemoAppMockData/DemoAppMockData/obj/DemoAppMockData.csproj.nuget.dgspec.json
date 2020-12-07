@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MediaFiles\\GitHub\\ASP.Net Core\\DemoAppMockData\\DemoAppMockData\\DemoAppMockData.csproj": {}
+    "C:\\MediaFiles\\GitHub\\Asp.Net-Core\\DemoAppMockData\\DemoAppMockData\\DemoAppMockData.csproj": {}
   },
   "projects": {
-    "C:\\MediaFiles\\GitHub\\ASP.Net Core\\DemoAppMockData\\DemoAppMockData\\DemoAppMockData.csproj": {
+    "C:\\MediaFiles\\GitHub\\Asp.Net-Core\\DemoAppMockData\\DemoAppMockData\\DemoAppMockData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MediaFiles\\GitHub\\ASP.Net Core\\DemoAppMockData\\DemoAppMockData\\DemoAppMockData.csproj",
+        "projectUniqueName": "C:\\MediaFiles\\GitHub\\Asp.Net-Core\\DemoAppMockData\\DemoAppMockData\\DemoAppMockData.csproj",
         "projectName": "DemoAppMockData",
-        "projectPath": "C:\\MediaFiles\\GitHub\\ASP.Net Core\\DemoAppMockData\\DemoAppMockData\\DemoAppMockData.csproj",
+        "projectPath": "C:\\MediaFiles\\GitHub\\Asp.Net-Core\\DemoAppMockData\\DemoAppMockData\\DemoAppMockData.csproj",
         "packagesPath": "C:\\Users\\M1023845\\.nuget\\packages\\",
-        "outputPath": "C:\\MediaFiles\\GitHub\\ASP.Net Core\\DemoAppMockData\\DemoAppMockData\\obj\\",
+        "outputPath": "C:\\MediaFiles\\GitHub\\Asp.Net-Core\\DemoAppMockData\\DemoAppMockData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\M1023845\\AppData\\Roaming\\NuGet\\NuGet.Config",
